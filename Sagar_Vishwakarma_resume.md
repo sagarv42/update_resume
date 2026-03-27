@@ -79,7 +79,7 @@ Data Scientist and ML Engineer with 8+ years of experience, skilled in various p
 
 - Developed machine learning models to predict server load in data centers, utilizing current resource usage to optimize resource allocation and improve energy efficiency in cloud computing, resulting in up to **32% energy savings**. This research was published in a peer-reviewed paper
 
-**Publication:** *Latency-Aware Dynamic Server and Cooling Capacity Provisioner for Data Centers*
+**Publication:** [Latency-Aware Dynamic Server and Cooling Capacity Provisioner for Data Centers](https://dl.acm.org/doi/10.1145/3472883.3487015)
 
 ### Data Science Intern - Oracle, Remote, US
 **Jun 2020 -- Aug 2020**
