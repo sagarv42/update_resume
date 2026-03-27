@@ -155,7 +155,7 @@ Courses: Structured Programming, Microcontrollers, Digital Image Processing, Rob
 
 ## NOTABLE
 
-**Creative Scoring Bot - Kargo Hackathon Winner** — **2025**<br>
+**Creative Scoring Bot - Kargo Hackathon Winner** — **Mar 2025**<br>
 Worked with designers from the creative team to build a Slack bot using Python, Slack Bolt, and OpenAI GPT-4o that provides instant AI-driven creative feedback, analyzing ad images against curated examples and historical performance data, delivering scores and actionable suggestions in Slack threads
 
 **Machine Learning in Production** - DeepLearning.AI, Coursera — **Feb 2025**<br>
