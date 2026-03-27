@@ -3,8 +3,9 @@ import subprocess
 import tempfile
 import os
 
-INPUT_MD = "/Users/sagar.vishwakarma/coffee_code/my_docs/Sagar_Vishwakarma_resume.md"
-OUTPUT_PDF = "/Users/sagar.vishwakarma/coffee_code/my_docs/Sagar_Vishwakarma_resume_new.pdf"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+INPUT_MD = os.path.join(SCRIPT_DIR, "Sagar_Vishwakarma_resume.md")
+OUTPUT_PDF = os.path.join(SCRIPT_DIR, "Sagar_Vishwakarma_resume_new.pdf")
 BRAVE = "/Applications/Brave Browser.app/Contents/MacOS/Brave Browser"
 
 with open(INPUT_MD, "r") as f:
